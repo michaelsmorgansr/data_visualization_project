@@ -8,4 +8,4 @@ DATA_PROCESSED = PROJECT_ROOT / "data" / "processed"
 REPORTS = PROJECT_ROOT / "reports"
 FIGURES = REPORTS / "figures"
 
-RAW_FILENAME = "manufacturing_defects.csv"  # rename to whatever the Kaggle CSV is
+RAW_FILENAME = "manufacturing_defect_dataset.csv"  
